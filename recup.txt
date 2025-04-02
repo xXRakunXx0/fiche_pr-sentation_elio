@@ -1,0 +1,12 @@
+
+
+    
+    <h4>Collectionné des cartes</h4>
+    <p>Pokemon, Marvel, Jojo, One piece, Bob l'éponge</p>
+    
+    
+    <h4>Ecouter de la musique</h4>
+    <p>Rap Manga Fr, ost opening anime ect...</p>
+    
+    
+  
